@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defaultTextSize">32sp</dimen>
+    <dimen name="default_stroke_width">16dp</dimen>
+    <dimen name="static_speed_text_size">16sp</dimen>
+</resources>
